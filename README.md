@@ -3,9 +3,11 @@ The official implementation of paper: "SGR-OCC: Evolving Monocular Priors for Em
 Authors: Yiran Guo, Simone Mentasti, Xiaofeng Jin, Matteo Frosi, Matteo Matteucci
 Politecnico di Milano
 
-Demo for Embodied Occupancy Prediction:
+### Demo for Embodied Occupancy Prediction
 
 <div align="center">
-  <h3>Demo for Embodied Occupancy Prediction</h3>
-  <video src="https://github.com/Peking5t5/SGR-OCC-Evolving-Monocular-Priors-for-Embodied-3D-Occupancy-Prediction/releases/download/v0.0.1-media/SGR-OCC_Embodied_Prediction.mp4" width="100%" controls="controls" muted="muted" loop="loop" autoplay="autoplay"></video>
+  <a href="https://github.com/Peking5t5/SGR-OCC-Evolving-Monocular-Priors-for-Embodied-3D-Occupancy-Prediction/releases/download/v0.0.1-media/SGR-OCC_Embodied_Prediction.mp4">
+    <img src="https://github.com/Peking5t5/SGR-OCC-Evolving-Monocular-Priors-for-Embodied-3D-Occupancy-Prediction/releases/download/v0.0.1-media/demo_cover.png" alt="Watch the video" width="100%">
+  </a>
 </div>
+
