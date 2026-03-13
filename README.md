@@ -3,7 +3,7 @@ The official implementation of paper: "SGR-OCC: Evolving Monocular Priors for Em
 Authors: Yiran Guo, Simone Mentasti, Xiaofeng Jin, Matteo Frosi, Matteo Matteucci
 Politecnico di Milano
 
-Model Structure:
+### Model Structure:
 ![Model Structure](https://github.com/user-attachments/assets/1e0cc9f1-a48b-495e-b4d5-5c174a86863b)
 
 ### A Demo for Embodied Occupancy Prediction
