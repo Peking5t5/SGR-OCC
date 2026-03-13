@@ -1,7 +1,10 @@
-# SGR-OCC-Evolving-Monocular-Priors-for-Embodied-3D-Occupancy-Prediction
+# SGR-OCC: Evolving Monocular Priors for Embodied 3D Occupancy Prediction
 The official implementation of paper: "SGR-OCC: Evolving Monocular Priors for Embodied 3D Occupancy Prediction via Soft-Gating Lifting and Semantic-Adaptive Geometric Refinement"
 Authors: Yiran Guo, Simone Mentasti, Xiaofeng Jin, Matteo Frosi, Matteo Matteucci
 Politecnico di Milano
+
+Model Structure:
+![Model Structure](https://github.com/user-attachments/assets/1e0cc9f1-a48b-495e-b4d5-5c174a86863b)
 
 ### A Demo for Embodied Occupancy Prediction
 ![demo_1](https://github.com/user-attachments/assets/0080662d-8b34-46e7-808e-7b12cc16798e)
